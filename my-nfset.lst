@@ -12,3 +12,4 @@ nftset=/googlevideo.com/4#inet#fw4#vpn_domains
 nftset=/youtubei.googleapis.com/4#inet#fw4#vpn_domains
 nftset=/i.ytimg.com/4#inet#fw4#vpn_domains
 nftset=/redirector.googlevideo.com/4#inet#fw4#vpn_domains
+nftset=/discord.com/4#inet#fw4#vpn_domains
