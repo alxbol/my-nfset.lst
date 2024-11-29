@@ -1,3 +1,4 @@
+nftset=/ntc.party/4#inet#fw4#vpn_domains
 nftset=/chatgpt.com/4#inet#fw4#vpn_domains
 nftset=/openai.com/4#inet#fw4#vpn_domains
 nftset=/facebook.com/4#inet#fw4#vpn_domains
